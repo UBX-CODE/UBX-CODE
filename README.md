@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=timeGradient&text=Nakul%20Dev&section=header&reversal=true&textBg=false&fontColor=f8f8ff&animation=fadeIn&stroke=000fff&strokeWidth=0.5" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=timeGradient&text=UJJAWAL%20BHARDWAJ&section=header&reversal=true&textBg=false&fontColor=f8f8ff&animation=fadeIn&stroke=000fff&strokeWidth=0.5" alt="header"/>
 </div>
 
 
