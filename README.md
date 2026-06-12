@@ -1,81 +1,75 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     GitHub Profile README — Ujjawal Bhardwaj (@UBX-CODE)
-     ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════
+     Ujjawal Bhardwaj · @UBX-CODE · GitHub Profile README
+     ══════════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED HEADER BANNER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ujjawal%20Bhardwaj&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Code%20%E2%80%A2%20Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Repeat&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0d1117,50:1a0533,100:0d1117&text=Ujjawal%20Bhardwaj&fontSize=52&fontColor=c9d1d9&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Code%20%E2%80%A2%20Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Repeat&descSize=16&descAlignY=60&animation=fadeIn&stroke=7F77DD&strokeWidth=1.5" width="100%" />
 </div>
 
-<!-- TYPING ANIMATION -->
+
+<br/>
+
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=false&width=650&lines=Crafting+elegant%2C+efficient+solutions+%F0%9F%9A%80;Clean+Architecture+%7C+Performance+Optimization;Full+Stack+%7C+Flutter+%7C+React+%7C+Three.js;Clean+code+enthusiast+%F0%9F%A7%A0)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7F77DD&center=true&vCenter=true&width=600&lines=Crafting+elegant%2C+efficient+solutions+%F0%9F%9A%80;Clean+Architecture+%7C+Performance+Optimization;React+%7C+Node.js+%7C+Flutter+%7C+Three.js;Code+hard%2C+debug+harder+%F0%9F%99%8F;Open+to+Internship+Opportunities!" />
 </div>
 
 ---
 
-<!-- CODING GIF + ABOUT ME SIDE BY SIDE -->
-<div align="center">
+## 🧩 About Me
 
 <table>
-<tr>
-<td width="55%" valign="top">
-
-## 🧩 About Me
+  <tr>
+    <td width="58%" valign="top">
 
 ```js
 const ujjawal = {
   name:      "Ujjawal Bhardwaj",
-  alias:     "UBX-CODE",
+  alias:     "UBX-CODE 🎯",
   role:      "Software Engineer",
   college:   "Arya College of Engineering & IT",
   location:  "Jaipur, Rajasthan 🇮🇳",
-  stack:     ["React", "Node.js", "Flutter",
-              "Three.js", "MongoDB"],
+  stack:     ["React", "Node.js", "Express",
+              "Flutter", "Three.js", "MongoDB"],
   interests: ["Clean Architecture",
               "Performance Optimization",
               "UI/UX", "DSA"],
-  mantra:    "Code hard, debug harder, pray
-              the compiler agrees. 🙏",
+  currentlyBuilding: "AI-powered web apps",
+  mantra: "Code hard, debug harder,
+           pray the compiler agrees. 🙏",
 };
 ```
 
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJqYmR0bG5qdmF0OGRjbmQyMXRqZnUxOTdpa2tud3ZwczdobGRsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s4ycVAVuJvXRvK0Rap/giphy.gif" width="100%" alt="coding gif" />
-
-</td>
-</tr>
+  </td>
+  <td width="42%" align="center" valign="middle">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJqYmR0bG5qdmF0OGRjbmQyMXRqZnUxOTdpa2tud3ZwczdobGRsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s4ycVAVuJvXRvK0Rap/giphy.gif" width="100%" style="border-radius:10px" />
+  </td>
+  </tr>
 </table>
 
-</div>
-
 ---
-
-<!-- SOCIAL LINKS -->
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjawal-bhardwaj-643625372/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UBX-CODE)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/UBX0/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ubx._.0)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwalsharma1910@gmail.com)
-
+  <a href="https://www.linkedin.com/in/ujjawal-bhardwaj-643625372/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/UBX-CODE">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/UBX0/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://instagram.com/ubx._.0">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:ujjwalsharma1910@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
-
----
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-**Languages**
-
+### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -83,8 +77,7 @@ const ujjawal = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
-
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -92,9 +85,9 @@ const ujjawal = {
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-**Databases & Tools**
-
+### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -109,27 +102,70 @@ const ujjawal = {
 
 <div align="center">
 
-<a href="https://github.com/UBX-CODE/Allc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UBX-CODE&repo=Allc&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/UBX-CODE/Unirank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UBX-CODE&repo=Unirank&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/UBX-CODE/Personal-Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UBX-CODE&repo=Personal-Portfolio&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/UBX-CODE/DSA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UBX-CODE&repo=DSA&theme=tokyonight&hide_border=true" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/UBX-CODE/Allc">Allc</a></h3>
+      <p>An AI-powered full-stack TypeScript application built on Google's Gemini API. Deployed on Vercel with Firebase as the backend — features real-time responses, clean architecture, and a polished UI. Built using Vite + TypeScript with Firestore rules for security.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
+      </p>
+      <a href="https://allc-seven.vercel.app">🔗 Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 <a href="https://github.com/UBX-CODE/Unirank">Unirank</a></h3>
+      <p>A campus-wide LeetCode ranking platform that integrates with LeetCode's GraphQL API to track and rank students by coding achievements. Features JWT auth, automated daily data refresh (cron jobs), leaderboard with filters, and a MongoDB backend with full REST API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LeetCode_API-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/UBX-CODE/Personal-Portfolio">Personal Portfolio</a></h3>
+      <p>A visually striking personal portfolio website built with vanilla JavaScript. Showcases projects, skills, and contact info with smooth animations and a responsive design — crafted entirely from scratch without heavy frameworks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/UBX-CODE/DSA">DSA Notes</a></h3>
+      <p>A well-organized collection of Data Structures & Algorithms solutions in Java — curated to help peers crack technical interviews. Covers arrays, trees, graphs, dynamic programming, and more. Shared openly to give back to the coding community.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DSA-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer&reversal=true&animation=fadeIn" width="100%" />
+## 🎮 My Setup
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/UBX-CODE/UBX-CODE/main/githubgif.gif" width="80%" style="border-radius:12px" />
+</div>
 
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:1a0533,100:0d1117&section=footer&animation=fadeIn&stroke=7F77DD&strokeWidth=1" width="100%"/>
+</div>
+
+<div align="center">
+
+*Code hard. Debug harder. Ship it.* ✦
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=UBX-CODE&icon=5&color=9)](https://visitcount.itsvg.in)
 
 </div>
