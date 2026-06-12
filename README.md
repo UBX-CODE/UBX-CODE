@@ -127,30 +127,9 @@ const ujjawal = {
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=UBX-CODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UBX-CODE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UBX-CODE&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer&reversal=true&animation=fadeIn" width="100%" />
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=UBX-CODE&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
 </div>
