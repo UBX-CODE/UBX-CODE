@@ -6,9 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0d1117,50:1a0533,100:0d1117&text=Ujjawal%20Bhardwaj&fontSize=52&fontColor=c9d1d9&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Code%20%E2%80%A2%20Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Repeat&descSize=16&descAlignY=60&animation=fadeIn&stroke=7F77DD&strokeWidth=1.5" width="100%" />
 </div>
 
-
-<br/>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7F77DD&center=true&vCenter=true&width=600&lines=Crafting+elegant%2C+efficient+solutions+%F0%9F%9A%80;Clean+Architecture+%7C+Performance+Optimization;React+%7C+Node.js+%7C+Flutter+%7C+Three.js;Code+hard%2C+debug+harder+%F0%9F%99%8F;Open+to+Internship+Opportunities!" />
 </div>
@@ -166,6 +163,3 @@ const ujjawal = {
 
 *Code hard. Debug harder. Ship it.* ✦
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=UBX-CODE&icon=5&color=9)](https://visitcount.itsvg.in)
-
-</div>
