@@ -46,33 +46,27 @@ const ujjawal = {
 ---
 <div align="center">
   <a href="https://www.linkedin.com/in/ujjawal-bhardwaj-643625372/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/UBX-CODE">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://leetcode.com/u/UBX0/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://instagram.com/ubx._.0">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="mailto:ujjwalsharma1910@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </div>
 
 ## 🛠️ Tech Stack & Tools
 <div align="center">
-<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cpp,js,py,java,html,css,linux" />
-</a>
-<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,tailwind,threejs,nextjs,ts,vite,npm,redhat" />
-</a>
-<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,figma,vercel,netlify,vscode,mysql,postgres,redis,git,github,docker,aws" />
-</a>
 </div>
 
 ---
@@ -132,7 +126,7 @@ const ujjawal = {
 ## 🎮 My Setup
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/UBX-CODE/UBX-CODE/main/githubgif.gif" width="80%" style="border-radius:12px" />
+  <img src="https://raw.githubusercontent.com/UBX-CODE/UBX-CODE/main/githubgif.gif" width="100%" style="border-radius:12px" />
 </div>
 
 ---
