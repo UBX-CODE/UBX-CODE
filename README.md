@@ -110,7 +110,7 @@ const ujjawal = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/UBX-CODE/DSA">DSA Notes</a></h3>
+      <h3>📚 <a href="https://github.com/UBX-CODE/DSA">DSA with java</a></h3>
       <p>A well-organized collection of Data Structures & Algorithms solutions in Java — curated to help peers crack technical interviews. Covers arrays, trees, graphs, dynamic programming, and more. Shared openly to give back to the coding community.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
