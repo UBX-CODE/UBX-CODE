@@ -101,7 +101,7 @@ const ujjawal = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/UBX-CODE/Personal-Portfolio">Personal Portfolio</a></h3>
+      <h3>🌐 <a href="https://github.com/UBX-CODE/Portfolio">Personal Portfolio</a></h3>
       <p>A visually striking personal portfolio website built with vanilla JavaScript. Showcases projects, skills, and contact info with smooth animations and a responsive design — crafted entirely from scratch without heavy frameworks.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
