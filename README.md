@@ -51,7 +51,7 @@ const ujjawal = {
 <div align="center">
 
 <b>
-
+&nbsp;•&nbsp;
 <a href="https://ubxportfolio.netlify.app/">portfolio/ ujjawal.me</a>
 &nbsp;•&nbsp;
 <a href="https://www.linkedin.com/in/ujjawal-bhardwaj-643625372/">linkedin/ ujjawal</a>
@@ -59,7 +59,6 @@ const ujjawal = {
 <a href="https://github.com/UBX-CODE">github/ UBX-CODE</a>
 &nbsp;•&nbsp;
 <a href="https://leetcode.com/u/UBX0/">Leetcode/ UBX0</a>
-&nbsp;•&nbsp;
 
 </b>
 
