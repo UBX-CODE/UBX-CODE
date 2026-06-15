@@ -46,7 +46,7 @@ const ujjawal = {
 </table>
 
 ---
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
@@ -65,7 +65,7 @@ const ujjawal = {
 </div>
 
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,py,java,html,css,linux" />
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,tailwind,threejs,nextjs,ts,vite,npm,redhat" />
@@ -74,7 +74,7 @@ const ujjawal = {
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <div align="center">
 
