@@ -8,10 +8,10 @@
 </div>
 
 <h1 align="center">Ujjawal Bhardwaj</h1>
-<p align="center"><b>Backend Developer</b></p>
+<p align="center"><b>Fullstack Developer</b></p>
 
 <p align="center">
-Final-year Computer Science student building scalable backend systems and high-performance APIs.<br/>
+Final-year Computer Science student building scalable Fullstack web applications and high-performance APIs.<br/>
 Focused on clean architecture, performance, and real-world impact.
 </p>
 
