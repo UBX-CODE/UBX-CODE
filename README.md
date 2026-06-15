@@ -60,8 +60,6 @@ const ujjawal = {
 &nbsp;•&nbsp;
 <a href="https://leetcode.com/u/UBX0/">Leetcode/ UBX0</a>
 &nbsp;•&nbsp;
-<a href="mailto:ujjwalsharma1910@gmail.com">email/ ujjwalsharma1404@gmail.com</a>
-
 
 </b>
 
@@ -134,4 +132,8 @@ const ujjawal = {
   <img src="https://raw.githubusercontent.com/UBX-CODE/UBX-CODE/main/githubgif.gif" width="100%" style="border-radius:12px" />
 </div>
 
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=nakuldevmv&abbreviated=true&color=brightgreen&style=flat"/>
+
+</div>
