@@ -134,6 +134,6 @@ const ujjawal = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=UBX-CODE&abbreviated=true&color=brightgreen&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=nakuldevmv&abbreviated=true&color=brightgreen&style=flat"/>
 
 </div>
