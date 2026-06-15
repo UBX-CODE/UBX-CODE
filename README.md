@@ -46,23 +46,27 @@ const ujjawal = {
 </table>
 
 ---
+## 🌐 Connect
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/ujjawal-bhardwaj-643625372/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/UBX-CODE">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://leetcode.com/u/UBX0/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://instagram.com/ubx._.0">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="mailto:ujjwalsharma1910@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+
+<b>
+
+<a href="https://ubxportfolio.netlify.app/">portfolio/ ujjawal.me</a>
+&nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/ujjawal-bhardwaj-643625372/">linkedin/ ujjawal</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/UBX-CODE">github/ UBX-CODE</a>
+&nbsp;•&nbsp;
+<a href="https://leetcode.com/u/UBX0/">Leetcode/ UBX0</a>
+&nbsp;•&nbsp;
+<a href="mailto:ujjwalsharma1910@gmail.com">email/ ujjwalsharma1404@gmail.com</a>
+
+
+</b>
+
 </div>
+
 
 ## 🛠️ Tech Stack & Tools
 <div align="center">
@@ -88,7 +92,6 @@ const ujjawal = {
         <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
       </p>
-      <a href="https://allc-seven.vercel.app">🔗 Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏆 <a href="https://github.com/UBX-CODE/Unirank">Unirank</a></h3>
