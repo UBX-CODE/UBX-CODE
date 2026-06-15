@@ -81,8 +81,4 @@ const ujjawal = {
   <img src="https://raw.githubusercontent.com/UBX-CODE/UBX-CODE/main/githubgif.gif" width="100%" style="border-radius:12px" />
 </div>
 
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nakuldevmv&abbreviated=true&color=brightgreen&style=flat"/>
-
-</div>
