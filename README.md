@@ -168,18 +168,8 @@ The project explores real-time communication architecture and the challenges inv
 <div align="center">
 
 <img
- src="https://skillicons.dev/icons?i=cpp,js,ts,py,java,html,css,linux"
- alt="Programming Languages"
-/>
-
-<img
- src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,threejs,vite,npm,flutter"
+ src="https://skillicons.dev/icons?i=js,ts,py,java,html,css,linux,react,nextjs,nodejs,express,threejs,tailwind,vite,npm,flutter,mongodb,mysql,postgres,redis,firebase,docker,terminal,aws,vercel,netlify,git,github,figma,vscode"
  alt="Frameworks and Libraries"
-/>
-
-<img
- src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,docker,aws,vercel,netlify,git,github,figma,vscode"
- alt="Databases and Developer Tools"
 />
 
 </div>
