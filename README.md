@@ -74,7 +74,7 @@ const ujjawal = {
 <h3 align="center">DevOS</h3>
 
 <div align="center">
-  <a href="https://github.com/UBX-CODE">
+  <a href="https://dev-os-iota.vercel.app">
     <img
       src="LandingPage.png"
       width="100%"
@@ -105,7 +105,7 @@ It focuses on structured project execution, clean architecture, and giving devel
 `React` `TypeScript` `Node.js` `Express` `MongoDB` `Tailwind CSS`
 
 <p align="center">
-  <a href="https://github.com/UBX-CODE">
+  <a href="https://github.com/UBX-CODE/DevOS">
     <b>View Repository →</b>
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -121,7 +121,7 @@ It focuses on structured project execution, clean architecture, and giving devel
 <h3 align="center"> MeetFlow</h3>
 
 <div align="center">
-  <a href="https://github.com/UBX-CODE">
+  <a href="https://meet-flow-six.vercel.app">
     <img
       src="3.png"
       width="100%"
@@ -152,7 +152,7 @@ The project explores real-time communication architecture and the challenges inv
 `React` `TypeScript` `Node.js` `Express` `WebRTC` `Socket.IO` `Tailwind CSS`
 
 <p align="center">
-  <a href="https://github.com/UBX-CODE">
+  <a href="https://github.com/UBX-CODE/MeetFlow">
     <b>View Repository →</b>
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
