@@ -17,44 +17,10 @@
   <img src="game.gif" width="100%" alt="Ujjawal Bhardwaj Banner" />
 </div>
 
-##  About Me
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
 
-```js
-const ujjawal = {
-  name: "Ujjawal Bhardwaj",
-  alias: "UBX-CODE 🎯",
-  role: "Software Engineer",
 
-  college: "Arya College of Engineering & IT",
-  location: "Jaipur, Rajasthan 🇮🇳",
 
-  stack: ["Next.js","React","Node.js",
-          "Express","TypeScript","MongoDB",
-          "PostgreSQL"],
-
-  interests: ["Clean Architecture",
-              "Performance Optimization",
-              "Real-Time Systems","UI/UX","DSA"],
-
-  mantra: "Build. Break. Debug. Improve. Repeat. 🚀"
-};
-```
-
-  </td>
-
-  <td width="42%" align="center" valign="middle">
-    <img
-      src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJqYmR0bG5qdmF0OGRjbmQyMXRqZnUxOTdpa2tud3ZwczdobGRsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s4ycVAVuJvXRvK0Rap/giphy.gif"
-      width="100%"
-      alt="Developer Animation"
-    />
-  </td>
-  </tr>
-</table>
 
 <br/>
 
