@@ -2,12 +2,6 @@
      Ujjawal Bhardwaj · @UBX-CODE · GitHub Profile README
      ══════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="game.gif" width="100%" alt="Ujjawal Bhardwaj Banner" />
-</div>
-
-<br/>
-
 <h1 align="center">Ujjawal Bhardwaj</h1>
 
 <p align="center">
@@ -19,8 +13,9 @@
   real-time systems, and high-performance APIs.<br/>
   Focused on clean architecture, performance, and products that solve real problems.
 </p>
-
-<br/>
+<div align="center">
+  <img src="game.gif" width="100%" alt="Ujjawal Bhardwaj Banner" />
+</div>
 
 ##  About Me
 
