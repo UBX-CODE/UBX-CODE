@@ -37,10 +37,12 @@ const ujjawal = {
   college: "Arya College of Engineering & IT",
   location: "Jaipur, Rajasthan 🇮🇳",
 
-  stack: ["Next.js","React","Node.js","Express",
-          "TypeScript","MongoDB","PostgreSQL"],
+  stack: ["Next.js","React","Node.js",
+          "Express","TypeScript","MongoDB",
+          "PostgreSQL"],
 
-  interests: ["Clean Architecture","Performance Optimization",
+  interests: ["Clean Architecture",
+              "Performance Optimization",
               "Real-Time Systems","UI/UX","DSA"],
 
   mantra: "Build. Break. Debug. Improve. Repeat. 🚀"
@@ -67,7 +69,7 @@ const ujjawal = {
 <tr>
 
 <td width="50%" valign="top">
-<img src="favicon.svg" width="60" alt="MeetFlow Logo"/>
+<img src="favicon2.svg" width="60" alt="MeetFlow Logo"/>
 
 <h3 align="center">DevOS</h3>
 
