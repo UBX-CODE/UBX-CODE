@@ -61,19 +61,20 @@ const ujjawal = {
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
+<img src="favicon.svg" width="60" alt="MeetFlow Logo"/>
 
-<h3 align="center">⚡ DevOS</h3>
+<h3 align="center">DevOS</h3>
 
 <div align="center">
   <a href="https://github.com/UBX-CODE">
     <img
-      src="assets/devos-preview.png"
+      src="LandingPage.png"
       width="100%"
       alt="DevOS Project Preview"
     />
@@ -114,13 +115,13 @@ It focuses on structured project execution, clean architecture, and giving devel
 </td>
 
 <td width="50%" valign="top">
-
-<h3 align="center"><img src="\public/favicon.svg" width="120" alt="MeetFlow Logo"/> MeetFlow</h3>
+<img src="favicon.svg" width="60" alt="MeetFlow Logo"/>
+<h3 align="center"> MeetFlow</h3>
 
 <div align="center">
   <a href="https://github.com/UBX-CODE">
     <img
-      src="assets/meetflow-preview.png"
+      src="3.png"
       width="100%"
       alt="MeetFlow Project Preview"
     />
