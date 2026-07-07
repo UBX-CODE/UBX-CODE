@@ -22,11 +22,11 @@
 
 <br/>
 
-## 👨‍💻 About Me
+##  About Me
 
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="50%" valign="top">
 
 ```js
 const ujjawal = {
