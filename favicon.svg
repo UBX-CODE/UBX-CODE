@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- shadow -->
+  <rect x="15" y="15" width="80" height="80" fill="#111111" />
+  <!-- box -->
+  <rect x="5" y="5" width="80" height="80" fill="#FF3300" stroke="#111111" stroke-width="6" />
+  <!-- text shadow -->
+  <text x="48" y="62" font-family="Arial, sans-serif" font-weight="900" font-size="44" text-anchor="middle" fill="#111111" letter-spacing="-2">MF</text>
+  <!-- text -->
+  <text x="45" y="59" font-family="Arial, sans-serif" font-weight="900" font-size="44" text-anchor="middle" fill="#FFFFFF" letter-spacing="-2">MF</text>
+</svg>
