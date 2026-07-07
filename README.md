@@ -64,7 +64,7 @@ It focuses on structured project execution, clean architecture, and giving devel
 **Tech Stack**
 
 `React` `TypeScript` `Node.js` `Express` `MongoDB` `Tailwind CSS`
-
+<br>
 <p align="center">
   <a href="https://github.com/UBX-CODE/DevOS">
     <b>View Repository →</b>
